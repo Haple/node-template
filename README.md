@@ -31,7 +31,8 @@
   <a href="#configure">Configure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#running">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#debug">Debug</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#root-config-files">Root config files</a>
+  <a href="#root-config-files">Root config files</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 
 </p>
 
@@ -171,7 +172,8 @@ Next step, go to debug tab on VS Code (ctrl + shift + D) and start debugging.
   ### .vscode/launch.json
   Config to enable NodeJS debug on VS Code.
 
-
+## License
+This project is under the MIT license. See the [LICENSE](https://github.com/haple/node-template/blob/master/LICENSE) for more information.
 
 <!-- ## Simple build for production
 
